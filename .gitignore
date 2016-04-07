@@ -60,3 +60,15 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+*.db
+text/
+markdown/
+*.txt
+*.ini
+cookies
+*.gif
+auth.py
+test.py
+zhihu.py
+
